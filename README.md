@@ -1,5 +1,5 @@
 # YouTubeQuery
-#### Dead-simple Ruby class for retrieving data from the YouTube API
+#### Dead-simple Ruby class for retrieving HLS info from the YouTube API
 
 ### Usage
 
